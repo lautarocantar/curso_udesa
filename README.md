@@ -9,5 +9,5 @@
 ### Clase 4 - Mapas
 
 * [Código](https://lautarocantar.github.io/curso_udesa/clase04/)
-* [PPT]()
-* [Guía Práctica]()
+* [PPT](https://github.com/lautarocantar/curso_udesa/blob/master/clase04/Curso%20UdeSA%20-%20Clase%204.pdf)
+* [Guía Práctica](https://github.com/lautarocantar/curso_udesa/blob/master/clase04/Clase-4---Guia.pdf)
