@@ -11,3 +11,7 @@
 * [Código](https://lautarocantar.github.io/curso_udesa/clase04/)
 * [PPT](https://github.com/lautarocantar/curso_udesa/blob/master/clase04/Curso%20UdeSA%20-%20Clase%204.pdf)
 * [Guía Práctica](https://github.com/lautarocantar/curso_udesa/blob/master/clase04/Clase-4---Guia.pdf)
+
+### Material adicional
+
+* [Artículo Normalización y Geocodificación](https://lautarocantar.com/post/una-api-de-normalizaci%C3%B3n-y-geolocalizaci%C3%B3n/)
