@@ -3,7 +3,7 @@
 ### Clase 2 - Tidyverse
 
 * [Código](https://lautarocantar.github.io/curso_udesa/clase02/)
-* [Presentación]()
+* [Presentación](https://github.com/lautarocantar/curso_udesa/blob/master/clase02/Curso%20UdeSA%20-%20Clase%202.pdf)
 
 
 ### Clase 3 - Visualizaciones
