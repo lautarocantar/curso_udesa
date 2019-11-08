@@ -21,4 +21,4 @@
 ### Material adicional
 
 * [Artículo Normalización y Geocodificación](https://lautarocantar.com/post/una-api-de-normalizaci%C3%B3n-y-geolocalizaci%C3%B3n/)
-* [janitor: paquete para limpiar datos que viene de Excel](https://elradar.github.io/2019/10/19/un-cran-a-la-vez-janitor/)
+* [janitor: paquete para limpiar datos que vienen de Excel](https://elradar.github.io/2019/10/19/un-cran-a-la-vez-janitor/)
