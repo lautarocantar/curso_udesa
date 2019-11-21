@@ -22,4 +22,4 @@
 
 * [Artículo Normalización y Geocodificación](https://lautarocantar.com/post/una-api-de-normalizaci%C3%B3n-y-geolocalizaci%C3%B3n/)
 * [janitor: paquete para limpiar datos que vienen de Excel](https://elradar.github.io/2019/10/19/un-cran-a-la-vez-janitor/)
-* [Lista de recursos en R]()
+* [Lista de recursos en R](https://github.com/lautarocantar/curso_udesa/blob/master/Recursos%20en%20R.pdf)
